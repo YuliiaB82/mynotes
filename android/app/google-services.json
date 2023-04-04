@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982979576853",
+    "project_id": "yublagov-mynotes",
+    "storage_bucket": "yublagov-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982979576853:android:cf9b2ccb73947bc1db7a1c",
+        "android_client_info": {
+          "package_name": "com.example.learning_durt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982979576853-m0t0jskvsb4em0b5fnjo58gc58et9s1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-uQcY-4stzlVbvNiNLPar-_f1w-4rVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982979576853-m0t0jskvsb4em0b5fnjo58gc58et9s1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
